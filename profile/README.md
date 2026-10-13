@@ -27,4 +27,8 @@ A Windows app for making more of narrated recordings: transcripts, screenshots, 
 
 A workflow for creating custom iRacing liveries with AI assistance and repeatable, code-generated artwork.
 
+### FreakFarm Hub · In development
+
+Dashboards, overlays, and configurable displays for iRacing, built around SimHub to put useful driving information where you need it.
+
 Public code and downloads will appear here as projects are released. For now, visit [aintologic.com](https://www.aintologic.com/) for the project overview.

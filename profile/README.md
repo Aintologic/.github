@@ -23,12 +23,12 @@ Our name brings AI and logic together: the aim is to turn possibilities into som
 
 A Windows app for making more of narrated recordings: transcripts, screenshots, clips, and review packages you and your AI assistant can work with.
 
-### iRacing Paints · Coming soon
+### [iRacing Paints](https://github.com/Aintologic/aintologic-iracing-paints) · Public on GitHub
 
-A workflow for creating custom iRacing liveries with AI assistance and repeatable, code-generated artwork.
+Code-generated iRacing liveries: ready-made paints for 10 cars, or personalize your own name and logos with one command. Open source under AGPL-3.0.
 
 ### FreakFarm Hub · In development
 
 Dashboards, overlays, and configurable displays for iRacing, built around SimHub to put useful driving information where you need it.
 
-Public code and downloads will appear here as projects are released. For now, visit [aintologic.com](https://www.aintologic.com/) for the project overview.
+Public code and downloads appear here as projects are released. Visit [aintologic.com](https://www.aintologic.com/) for the project overview.
